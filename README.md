@@ -16,6 +16,15 @@ Setting up requires the following steps
 - then run `yarn start`
 - run `npx expo start` and choose the platform you want to run on
 
+## Screenshot
+
+<div>
+  <img src="https://github.com/SwetaTanwar/stocks-portfolio/assets/19969451/53d1b9c1-325f-485d-a385-93909081848d" width="300" alt="iOS Screenshot"/>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+
+  <img src="https://github.com/SwetaTanwar/stocks-portfolio/assets/19969451/c73c3c85-5d87-42a9-90b1-e86a7f1f9269" width="358" alt="Android Screenshot" />
+</div>
+
 ## Business Logic
 Following are the main calculations being used
 - Symbol => Use from JSON response
